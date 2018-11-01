@@ -135,7 +135,7 @@ class CfgVehicles
 			"\staffjacket\data\M65_Jacket_BlueStaff_co.paa"
 		};
 	};
-	class M65Jacket_RenameMeStaff: M65Jacket_ColorBase
+	class M65Jacket_BlueStaff: M65Jacket_ColorBase
 	{
 		scope=2;
 		descriptionShort="$STR_CfgVehicles_M65Jacket_Black0";
